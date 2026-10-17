@@ -78,8 +78,3 @@ In a typical deployment, the device connects by Wi-Fi to the network, publishes 
 - Use calibration data appropriate to the operating frequency band and required accuracy.
 - Validate the installation against a known reference source before relying on readings for protection or operational decisions.
 - Review connector, cable, grounding, shielding, and environmental requirements for the installation.
-
-### Support and customisation
-
-Blinky-Lite can support system design, installation, commissioning, custom integration, calibration, and ongoing technical support. The open-source firmware is intended to make site-specific adaptations possible where required.
-
