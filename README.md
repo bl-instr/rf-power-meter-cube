@@ -15,7 +15,7 @@ Built around the Raspberry Pi Pico W / RP2040, the module uses 2.4 GHz Wi-Fi and
 - Wireless connectivity: 2.4 GHz Wi-Fi for remote or distributed installations.
 - Event-driven integration: MQTT publish/subscribe communication with Blinky-Lite.
 - Fast alarm and state reporting: RF power exceeding or falling below configured limits can be reported immediately.
-- Configurable operation: Calibration data can be updated for different bandwidths and measurement requirements.
+- Configurable operation: Using the Blinky-Lite control system, calibration constants can be adjusted easily for each device and its particular frequency band.
 - Open-source firmware: Microcontroller code can be adapted for site-specific instrumentation and integration requirements.
 
 ## Technical summary
