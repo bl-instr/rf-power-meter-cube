@@ -1,6 +1,7 @@
 # RF Power Meter Cube
 
 **Compact, wireless RF power measurement for distributed instrumentation and Blinky-Lite control-system deployments.**
+![](rfpowerMeter.png)
 
 ## Overview
 
