@@ -1,11 +1,13 @@
 # RF Power Meter Cube
 
 **Compact, wireless RF power measurement for distributed instrumentation and Blinky-Lite control-system deployments.**
+
 <img src="rfpowerMeter.png" alt="rfpowerMeter" width="800"/>
 
 ## Overview
 
 The RF Power Meter Cube is a compact, wireless instrumentation module in the Blinky-Lite Instrumentation Platform. It is designed to measure RF power at or near the equipment being monitored, then communicate measurements and alarms to a central Blinky-Lite control system.
+
 Built around the Raspberry Pi Pico W / RP2040, the module uses 2.4 GHz Wi-Fi and MQTT publish/subscribe communication. This event-driven approach supports distributed deployments without wired data connections and enables Blinky-Lite to use device information for recording, notifications, visualisation, and machine-protection workflows.
 
 ### Key features
@@ -76,6 +78,7 @@ The firmware is released under the MIT License, giving users broad permission to
 ### Integration model
 
 The RF Power Meter Cube uses MQTT to publish measurements and alarm events. This event-driven model avoids conventional polling and enables prompt control-system responses to changing RF conditions.
+
 In a typical deployment, the device connects by Wi-Fi to the network and communicates through an MQTT broker. Blinky-Lite represents it as an integrated instrumentation node and can use its information for recording, display, notification, alarms, and machine-protection logic.
 
 ### Measurement, safety, and installation considerations
