@@ -2,7 +2,9 @@
 
 **Compact, wireless RF power measurement for distributed instrumentation and Blinky-Lite control-system deployments.**
 
-<img src="rfpowerMeter.png" alt="rfpowerMeter" width="800"/>
+| Enclosure | PCB |
+|-----------|-----|
+|<img src="rfpowerMeter.png" alt="rfpowerMeter" width="400"/>|<img src="rfpowerMeterPCB.png" alt="rfpowerMeterPCB" width="400"/>
 
 ## Overview
 
